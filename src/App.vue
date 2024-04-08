@@ -17,6 +17,12 @@
         class="my-4"
       />
     </collapse>
+
+    <!-- TODO -->
+    <collapse
+      title="Travel"
+      icon="✈️"
+    />
   </div>
 </template>
 
