@@ -1,5 +1,5 @@
 <template>
-	<article class="max-w-2xl px-6 py-24 mx-auto space-y-12">
+	<article class="max-w-2xl px-6 pt-24 mx-auto space-y-12">
 		<div class="w-full mx-auto space-y-4 text-center">
 			<p class="text-xs font-semibold tracki text-green-600">#TheTragedyOfLifeIsNotHavingGoalsToReach</p>
 			<h1 class="text-4xl text-gray-800 font-bold leadi md:text-5xl">My Bucket List</h1>
