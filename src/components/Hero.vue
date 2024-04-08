@@ -2,8 +2,8 @@
 	<article class="max-w-2xl px-6 py-24 mx-auto space-y-12">
 		<div class="w-full mx-auto space-y-4 text-center">
 			<p class="text-xs font-semibold tracki uppercase text-green-600">#TailwindCSS</p>
-			<h1 class="text-4xl font-bold leadi md:text-5xl">My Bucket List</h1>
-			<p class="text-sm dark:text-gray-400">by
+			<h1 class="text-4xl text-gray-800 font-bold leadi md:text-5xl">My Bucket List</h1>
+			<p class="text-sm text-gray-400">by
 				<a rel="noopener noreferrer" href="https://cesaralvarez.dev/" target="_blank" class="underline text-green-600">
 					<span itemprop="name">César Álvarez Llaneza</span>
 				</a> on
